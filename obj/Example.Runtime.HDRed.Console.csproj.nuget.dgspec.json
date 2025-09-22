@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\CognexSoftwarePlayGround\\Examples\\c#\\Example.Runtime.HDRed.ConsolePerformance\\Example.Runtime.HDRed.Console.csproj": {}
+  },
+  "projects": {
+    "C:\\CognexSoftwarePlayGround\\Examples\\c#\\Example.Runtime.HDRed.ConsolePerformance\\Example.Runtime.HDRed.Console.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\CognexSoftwarePlayGround\\Examples\\c#\\Example.Runtime.HDRed.ConsolePerformance\\Example.Runtime.HDRed.Console.csproj",
+        "projectName": "Example.Runtime.HDRed.Console",
+        "projectPath": "C:\\CognexSoftwarePlayGround\\Examples\\c#\\Example.Runtime.HDRed.ConsolePerformance\\Example.Runtime.HDRed.Console.csproj",
+        "packagesPath": "C:\\Users\\netap\\.nuget\\packages\\",
+        "outputPath": "C:\\CognexSoftwarePlayGround\\Examples\\c#\\Example.Runtime.HDRed.ConsolePerformance\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "UsingMicrosoftNETSdk": false,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\CognexSoftwarePlayGround\\Examples\\c#\\NuGet.Config",
+          "C:\\Users\\netap\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\CognexSoftwarePlayGround\\Examples\\packages\\": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "ViDi.NET.Local": {
+              "target": "Package",
+              "version": "[6.1.1.26213, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
